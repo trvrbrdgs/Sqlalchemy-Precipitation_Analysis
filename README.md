@@ -1,4 +1,4 @@
-# sqlalchemy-challenge
+# sqlalchemy-precipitation analysis
 
 <h1>Overview</h1>
 
